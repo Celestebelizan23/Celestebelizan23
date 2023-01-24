@@ -5,4 +5,4 @@ I am looking for a challenging and dynamic position that gives me the opportunit
 
 📬 Contact
 👨‍💻 Linkedin :https://www.linkedin.com/feed/
-🔻 Download CV :
+✉️ Email : CelesteBelizan23@gmail.com
