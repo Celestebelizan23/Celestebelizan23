@@ -1,7 +1,5 @@
 <h1 align= "center"> Hi👋 i am Celeste Belizán </h1> 
-Hello! 👋 My name is Celeste Belizán and I am a Front end developer👩🏻‍💻 . I love carrying out projects and being in every detail to provide solutions and a better user experience.
-I am a self-taught, persevering, thoughtful, companion person. I like to be in continuous learning about new technologies and specialize in them.
-I am looking for a challenging and dynamic position that gives me the opportunity to work on what I am passionate about.
+Hello 👋! My name is Celeste Belizán and I am a passionate Front-end developer 👩🏻‍💻. I love combining my creativity and technical skills to create projects that not only work well, but also look stunning. I am an autonomous person, dedicated, companion and attentive to details, and I am always willing to collaborate with my team. In addition to my passion for Front-end development, I am also passionate about design and I keep up to date with regards to technologies and trends. I am looking for a job opportunity that challenges me and allows me to continue developing in what I am passionate about
 
 👨‍💻 Linkedin :https://www.linkedin.com/feed/
 ✉️ Email : CelesteBelizan23@gmail.com
